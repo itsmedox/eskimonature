@@ -1,8 +1,8 @@
 {
   "ADS": {
 
- 
-    "networkAd": "0",
+
+    "networkAd": "xx",
    
     "Banner_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "Interstitial_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -12,7 +12,7 @@
     "max_banner": "13482be8f771efc7",
     "Native_max": "76d87171404718ed",
 
-    "startapp_id": "",
+    "startapp_id": "139480955",
 
     "show_cpa": false,
     "cpa_image": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds.jpg",
@@ -64,7 +64,7 @@
     "Text_buttonplus" : "+ 18",
 
 
-    "CpaAds" : false,
+    "CpaAds" : "True",
 
     "Click_inter": "0"
 
